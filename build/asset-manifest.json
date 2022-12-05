@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/know-your-emotions/static/css/main.47c8a0ac.chunk.css",
+    "main.js": "/know-your-emotions/static/js/main.42632b68.chunk.js",
+    "runtime-main.js": "/know-your-emotions/static/js/runtime-main.2000208d.js",
+    "static/js/2.9edb5174.chunk.js": "/know-your-emotions/static/js/2.9edb5174.chunk.js",
+    "static/js/3.7a6ef922.chunk.js": "/know-your-emotions/static/js/3.7a6ef922.chunk.js",
+    "index.html": "/know-your-emotions/index.html",
+    "static/js/2.9edb5174.chunk.js.LICENSE.txt": "/know-your-emotions/static/js/2.9edb5174.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2000208d.js",
+    "static/js/2.9edb5174.chunk.js",
+    "static/css/main.47c8a0ac.chunk.css",
+    "static/js/main.42632b68.chunk.js"
+  ]
+}
